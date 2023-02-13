@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 5
+head 5-firstlines 
