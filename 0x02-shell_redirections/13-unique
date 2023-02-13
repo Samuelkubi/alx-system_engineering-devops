@@ -1,2 +1,2 @@
 #!/bin/bash
-task 13
+sort | uniq -u
