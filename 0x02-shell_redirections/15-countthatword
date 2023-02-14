@@ -1,2 +1,2 @@
 #!/bin/bash
-task 15
+ grep -c -i "bin" /etc/passwd
